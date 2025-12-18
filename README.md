@@ -53,3 +53,7 @@ LLMs can process unstructured text data (like feedback comments) at scale, ident
 
 ### Usage
 Open the frontend URL (usually `http://localhost:5173`) in your browser.
+
+## License
+
+This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
